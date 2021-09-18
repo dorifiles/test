@@ -1,3 +1,1 @@
-# test
-test
-Тестовое изменение.
+print("Hello World")
